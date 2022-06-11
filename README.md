@@ -17,11 +17,10 @@ If you edit todo and move focus out of the current todo, changes would be saved.
 
 2. Technologies stack: HTML5, CSS3, BEM, SASS (I was provided with ready markup and SCSS), JS, TS, React.
 
-3. Preview link: https:/mykhailoivchenko.github.io/todo-app-react-local-storage/
+3. Preview link: https:/mykhailoivchenko.github.io/todo-app-react-local-storage
 
 4. The prototype of the application is here: http://todomvc.com/examples/vanillajs/
 
 5. To add todo just write it into the field at the top of application. There is a version which
-uses Mate academy server API.
-Link to repository https://github.com/MykhailoIvchenko/todo-app-react
-Link to gh-pages: https:/mykhailoivchenko.github.io/todo-app-react/
+uses Mate academy server API. Link to repository https://github.com/MykhailoIvchenko/todo-app-react
+Link to gh-pages: https:/mykhailoivchenko.github.io/todo-app-react
