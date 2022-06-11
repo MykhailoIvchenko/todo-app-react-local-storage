@@ -23,4 +23,5 @@ If you edit todo and move focus out of the current todo, changes would be saved.
 
 5. To add todo just write it into the field at the top of application. There is a version which
 uses Mate academy server API. Link to gh-pages: https:/mykhailoivchenko.github.io/todo-app-react/
+
 Link to repository https://github.com/MykhailoIvchenko/todo-app-react
